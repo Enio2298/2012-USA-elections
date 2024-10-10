@@ -1,4 +1,4 @@
-2012 Election Poll and Donor Analysis
+# 2012 Election Poll and Donor Analysis
 Overview
 
 This project analyzes the 2012 U.S. General Election data, focusing on:
